@@ -18,8 +18,11 @@ body {
 
 .text-uppercase {
   color: white;
+  text-align: center;
 }
 
 .list-unstyled {
   color: white;
+  text-align: center;
 }
+
