@@ -23,3 +23,7 @@ body {
 .list-unstyled {
   color: white;
 }
+
+#about {
+  text-align: center;
+}
