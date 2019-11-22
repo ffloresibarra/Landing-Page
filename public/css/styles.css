@@ -11,3 +11,15 @@ body {
 .primary {
     background-color: #2FCE98;
   }
+
+.page-footer {
+  background-color:black;
+}
+
+.text-uppercase {
+  color: white;
+}
+
+.list-unstyled {
+  color: white;
+}
