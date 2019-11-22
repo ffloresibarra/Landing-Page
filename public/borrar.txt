@@ -1,0 +1,25 @@
+<!--The page's main content-->
+    <main>
+            <!--The sections-->
+            <!--The start section-->
+            <section>
+                <p>Start section</p>
+                <p><i class="fas fa-align-justify"></i></p>
+            </section>
+            <section>
+                <p>Promotion section</p>
+            </section>
+            <!--The porfolio section-->
+            <section>
+                <p>Portfolio section</p>
+            </section>
+            <!-- The about section-->
+            <section>
+                <p>Features section</p>
+                <button class="btn btn-primary">Botón</button>
+            </section>
+            <!--The contact section-->
+            <section>
+                <p>Contact section</p>
+            </section>
+        </main>

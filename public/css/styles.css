@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: black;
 }
 
 .btn-primary {
@@ -11,3 +12,22 @@ body {
 .primary {
     background-color: #2FCE98;
   }
+
+/*----------------   CESAR   CSS  --------------*/
+.navbar-brand{
+    color: black;
+}
+
+.navbar-title:hover{
+    color: white;
+}
+
+.features{
+    background-color: #7C7C7C;
+}
+.features img{
+    width: 100px;
+    height: 100px;
+}
+
+/*----------------   CESAR   CSS  --------------*/
