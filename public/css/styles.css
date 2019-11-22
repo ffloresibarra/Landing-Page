@@ -14,10 +14,6 @@ body {
   }
 
 /*----------------   CESAR   CSS  --------------*/
-.navbar-brand{
-    color: black;
-}
-
 .navbar-title:hover{
     color: white;
 }
