@@ -43,7 +43,7 @@ body {
 .product [class*="col-md-3"] {
   padding: .5rem;
 }
-img{
+a img{
   width: 100%;
 }
 .categories{
@@ -65,4 +65,25 @@ img{
 .filter-option:hover
 {
     color:#2FCE98;
+}
+.product_content
+{
+	border: solid 2px #dbdbdb;
+}
+.product_name
+{
+	max-width: 175px;
+}
+.product_name a
+{
+  text-decoration: none;
+	font-size: 18px;
+	line-height: 1.2;
+	color: #4a4a4a;
+	font-weight: 500;
+}
+.product_name a:hover,
+.product_category a:hover
+{
+	color: #2fce98;
 }
