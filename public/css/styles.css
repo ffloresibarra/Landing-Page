@@ -2,7 +2,6 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: black;
 }
 
 .btn-primary {
@@ -14,9 +13,18 @@ body {
   }
 
 /*----------------   CESAR   CSS  --------------*/
-.navbar-title:hover{
-    color: white;
+li.active{
+  background-color: #2FCE98;
+  color: white;
 }
+li:hover{
+  color: #2FCE98;
+}
+.fa-shopping-cart{
+  padding-right: 50px;
+  font-size: 20px;
+}
+
 
 .features{
     background-color: #7C7C7C;

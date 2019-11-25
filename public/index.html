@@ -11,50 +11,57 @@
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <link rel="stylesheet" href="css/styles.css">
     <script src="https://kit.fontawesome.com/a092ec1a46.js" crossorigin="anonymous"></script>
+    
 </head>
 
 <body>
     <!-- The header section -->
-    <header>
-        <!-- Navbar Section -->
-        <nav class="navbar navbar-expand-lg navbar-ligh bg-light">
-
-            <a class="navbar-brand" href="#">
-                <img src="../img/logo.png" width="60" height="60" alt="">
-            </a>
-            <a class="navbar-brand" href="#">Beware of Cat</a>
-            
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-
-                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="#"><span class="sr-only">(current)</span></a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Products</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
-                    </li>
-                </ul>
-
-                <ul class="navbar-nav navbar-right">
-                    <li class="nav-item">
-                        <i class="fas fa-shopping-cart"></i>
-                    </li>
-                </ul>
-                
-            </div>
-
-        </nav>
+    
+    
+  <header>
+    <!-- Navbar Section -->
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+      <a class="navbar-brand" href="#"><img src="./img/logo.png" alt="" width="60" height="60"></a>
+      <a class="navbar-brand text-page" href="/">Beware of Cat</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+    
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#products">Products</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contac">Contact</a>
+          </li>
+    
+        </ul>
+    
+        <ul class="navbar-nav navbar-right">
+    
+          <a><i class="fas fa-shopping-cart"></i></a>
+    
+        </ul>
+    
+    
+      </div>
+    </nav>
+    <!--/.Navbar-->
     </header>
+
+  
+
+
+
+
+
     <!--Scripts-->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -65,6 +72,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
         integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
         crossorigin="anonymous"></script>
+        <script src="./js/nav-active.js"></script>
 </body>
 
 </html>
