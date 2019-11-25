@@ -32,15 +32,13 @@ body {
   color:#2FCE98 ;
 }
 .about-marge{
-  /* border-style: solid; */
-  border-block-width: unset;
+  border-block-width: none;
   margin-top: 3%;
 }
 
 .about {
   text-align: center;
   border-width: 1px;
-  /* border-style: solid; */
   margin: 2pc;
   padding-left: 2cm;
   padding-right: 2cm;
@@ -49,7 +47,3 @@ body {
   padding: 0%;
 }
 
-.img-fluid{
-  width: 100%;
-  padding: 0%;
-}
