@@ -13,13 +13,15 @@ body {
   }
 
 /*----------------   CESAR   CSS  --------------*/
-li.active{
-  background-color: #2FCE98;
-  color: white;
+a.nav-link:hover{
+  color: #2FCE98 !important;
 }
-li:hover{
-  color: #2FCE98;
+
+a.nav-link.active{
+  color: #2FCE98!important;
 }
+
+
 .fa-shopping-cart{
   padding-right: 50px;
   font-size: 20px;
