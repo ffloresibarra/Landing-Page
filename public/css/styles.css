@@ -26,6 +26,7 @@ body {
   text-align: center;
 }
 
-#about {
+.about {
   text-align: center;
+  border-style: solid;
 }
