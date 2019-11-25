@@ -18,12 +18,26 @@ body {
 
 .text-uppercase {
   color: white;
+  text-align: center;
 }
 
 .list-unstyled {
   color: white;
 }
 
-#about {
+.about-line{
+  border-right-style: solid;
+  color:#2FCE98 ;
+}
+.about-marge{
+  border-block-width: none;
+  margin-top: 3%;
+}
+
+.about {
   text-align: center;
+  border-width: 1px;
+  margin: 2pc;
+  padding-left: 2cm;
+  padding-right: 2cm;
 }
