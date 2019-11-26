@@ -85,25 +85,30 @@ body {
 {
     color:#2FCE98;
 }
+/* ------------------------- */
+/* Modal Dialog*/
+/* ------------------------- */
+.modal-dialog{
+  width: 260px;
+}
+.modal-body{
+  padding: 0em 0em 0em 0em;
+}
 .product_content
 {
 	border: solid 2px #dbdbdb;
 }
-.product_name
-{
-	max-width: 175px;
-}
 .product_name a
 {
   text-decoration: none;
-	font-size: 18px;
+	font-size: 17px;
 	line-height: 1.2;
 	color: #4a4a4a;
-	font-weight: 500;
+  font-weight: 500;
+  margin-left: 5px;
+  width: 95%;
 }
-.product_name a:hover,
-.product_category a:hover
-{
+.product_name a:hover{
 	color: #2fce98;
 }
   
@@ -216,3 +221,28 @@ a.nav-link.active{
   padding-right: 2cm;
 }
 /*----------------   CARLOS   CSS  END  --------------*/
+.rating_r i:not(:last-of-type)
+{
+	margin-right: 4px;
+}
+.rating_r i::before
+{
+	font-family: 'FontAwesome';
+	content: "\f006";
+	font-style: normal;
+	font-size: 15px;
+	color: #4a4a4a;
+}
+.home_item_large .rating_r i::before
+{
+	color: #FFFFFF;
+}
+.product_price
+{
+	font-size: 30px;
+	color: #4a4a4a;
+	font-weight: 500;
+  margin-top: 19px;
+  margin-bottom: 10px;
+	line-height: 0.75;
+}
