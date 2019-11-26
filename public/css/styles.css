@@ -90,7 +90,7 @@ body {
 }
   
 
-/*----------------   CESAR   CSS  --------------*/
+/*----------------    CESAR   CSS  START  --------------*/
 a.nav-link:hover{
   color: #2FCE98 !important;
 }
@@ -114,7 +114,7 @@ a.nav-link.active{
     height: 100px;
 }
 
-/*----------------   CESAR   CSS  --------------*/
+/*----------------   CESAR   CSS  END  --------------*/
 
 .about-line{
   border-right-style: solid;
