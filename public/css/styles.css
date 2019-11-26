@@ -14,6 +14,8 @@ body {
 .img-fluid{
   width: 100%;
 }
+
+/* ---- BEGIN | Start section and contact section ---*/
 #start-section {
   background-image: url(http://bazaarmodels.com/images/bazaar-models-color-block02.jpg);
   height:100vh;
@@ -34,6 +36,15 @@ body {
   color: #FFF;
 }
 
+#contac {
+  margin: 20px 0px;
+}
+
+#contac>.flex-column {
+  text-align: center;
+}
+
+/* ---- END | Start section and contact section ---*/
 
 .page-footer {
   background-color:black;
