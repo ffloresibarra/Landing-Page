@@ -35,10 +35,7 @@ body {
   word-wrap: break-word;
   color: #FFF;
 }
-.text-uppercase {
-  color: white;
-  text-align: center;
-}
+
 
 .page-footer {
   background-color:black;
@@ -46,7 +43,6 @@ body {
 
 .list-unstyled {
   color: white;
-
   text-align: center;
 }
 
@@ -116,6 +112,18 @@ a.nav-link.active{
 
 /*----------------   CESAR   CSS  END  --------------*/
 
+/*----------------   CARLOS   CSS  START  --------------*/
+
+.text-uppercase {
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.col-md-3{
+  padding: 0%;
+}
+
 .about-line{
   border-right-style: solid;
   color:#2FCE98 ;
@@ -132,3 +140,4 @@ a.nav-link.active{
   padding-left: 2cm;
   padding-right: 2cm;
 }
+/*----------------   CARLOS   CSS  END  --------------*/
