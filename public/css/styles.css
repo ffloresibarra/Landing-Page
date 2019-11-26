@@ -11,6 +11,11 @@ body {
 .primary {
     background-color: #2FCE98;
 }
+.img-fluid{
+ 
+    width: 100%;
+  
+}
 #start-section {
   background-image: url(http://bazaarmodels.com/images/bazaar-models-color-block02.jpg);
   height:100vh;
@@ -30,10 +35,7 @@ body {
   word-wrap: break-word;
   color: #FFF;
 }
-.text-uppercase {
-  color: white;
-  text-align: center;
-}
+
 
 .page-footer {
   background-color:black;
@@ -64,6 +66,7 @@ body {
 a img{
   width: 100%;
 }
+
 .categories{
   display: flex;
   justify-content: center;
@@ -105,3 +108,60 @@ a img{
 {
 	color: #2fce98;
 }
+  
+
+/*----------------    CESAR   CSS  START  --------------*/
+a.nav-link:hover{
+  color: #2FCE98 !important;
+}
+
+a.nav-link.active{
+  color: #2FCE98!important;
+}
+
+
+.fa-shopping-cart{
+  padding-right: 50px;
+  font-size: 20px;
+}
+
+
+.features{
+    background-color: #7C7C7C;
+}
+.features img{
+    width: 100px;
+    height: 100px;
+}
+
+/*----------------   CESAR   CSS  END  --------------*/
+
+/*----------------   CARLOS   CSS  START  --------------*/
+
+.text-uppercase {
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.col-md-3{
+  padding: 0%;
+}
+
+.about-line{
+  border-right-style: solid;
+  color:#2FCE98 ;
+}
+.about-marge{
+  border-block-width: none;
+  margin-top: 3%;
+}
+
+.about {
+  text-align: center;
+  border-width: 1px;
+  margin: 2pc;
+  padding-left: 2cm;
+  padding-right: 2cm;
+}
+/*----------------   CARLOS   CSS  END  --------------*/
