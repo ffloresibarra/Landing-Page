@@ -54,6 +54,53 @@ body {
   color: white;
   text-align: center;
 }
+/* ------------------------- */
+/* Promotions */
+/* ------------------------- */
+.promotions{
+  background-color: #f8f9fa
+}
+.promotions-container{
+  background-color: white;
+  border: solid 1px #dbdbdb;
+  border-radius: 10px;
+}
+.promotions-row{
+  align-items: center;
+  padding: 0px 5px 0px 5px;
+}
+.promotions-row [class*="col-md-3"] {
+  padding: 0px 15px 0px 15px;
+}
+.promotions-pay{
+  border-inline-start: solid 4px #2FCE98;
+}
+.promotions-month{
+  border-inline-start: solid 1px #2FCE98;
+}
+.promotions-more{
+  float: left; margin-right: 5px;
+}
+.payment-title .payment-subtitle{
+  margin-left: 5px;
+}
+.promotions-pay{
+  border-inline-start: solid 4px #2FCE98;
+}
+.payments-large {
+  background: url(https://http2.mlstatic.com/secure/payment-logos/v2/payment-logos-mlm-large_v_f92d677adc.png) no-repeat;
+}
+
+.credit-card{
+  width: 130px;
+  height: 24px;
+  background-position: left -462px;
+}
+.payment-subtitle {
+  color: #999;
+  font-size: 14px;
+  margin-top: -1px;
+}
 
 /* ------------------------- */
 /* Products */
