@@ -87,3 +87,30 @@ body {
 {
     color:#2FCE98;
 }
+  
+
+/*----------------   CESAR   CSS  --------------*/
+a.nav-link:hover{
+  color: #2FCE98 !important;
+}
+
+a.nav-link.active{
+  color: #2FCE98!important;
+}
+
+
+.fa-shopping-cart{
+  padding-right: 50px;
+  font-size: 20px;
+}
+
+
+.features{
+    background-color: #7C7C7C;
+}
+.features img{
+    width: 100px;
+    height: 100px;
+}
+
+/*----------------   CESAR   CSS  --------------*/
