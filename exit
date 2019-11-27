@@ -1,0 +1,77 @@
+*   [33mec51163[m[33m ([m[1;31morigin/G3-018[m[33m, [m[1;32mG3-018[m[33m)[m Footer and Features added
+[31m|[m[32m\[m  
+* [32m|[m [33m823978d[m 2.- Features with Changes
+* [32m|[m [33m71b7bf9[m 1.- Features Finished
+[32m|[m [32m|[m *   [33mefac52b[m[33m ([m[1;36mHEAD -> [m[1;32mctrejo[m[33m, [m[1;31morigin/ctrejo[m[33m)[m agregar de master
+[32m|[m [32m|[m [33m|[m[34m\[m  
+[32m|[m [32m|[m [33m|[m * [33m9ac6657[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m punto de retorno
+[32m|[m [32m|[m [33m|[m[32m/[m  
+[32m|[m [32m|[m[32m/[m[33m|[m   
+[32m|[m * [33m|[m [33mc9a836a[m ajuste de about
+[32m|[m * [33m|[m [33ma68fb4c[m START
+[32m|[m * [33m|[m [33m49add86[m some fixes added
+[32m|[m * [33m|[m   [33mddd0118[m Merge branch 'G3-010'
+[32m|[m [32m|[m[36m\[m [33m\[m  
+[32m|[m[32m/[m [36m/[m [33m/[m  
+[32m|[m * [33m|[m [33m857b00a[m[33m ([m[1;31morigin/G3-010[m[33m, [m[1;32mG3-010[m[33m)[m about complete
+[32m|[m * [33m|[m [33mbfe4cef[m 1
+[32m|[m [36m|[m * [33mdefb7f9[m ajuste
+[32m|[m [36m|[m * [33m3450459[m marco acabado con el footer alineado
+[32m|[m [36m|[m * [33mf757109[m prueba de marcos
+[32m|[m [36m|[m * [33mc9d16ba[m c
+[32m|[m [36m|[m *   [33m51c164a[m Merge branch 'G3-010' into ctrejo
+[32m|[m [36m|[m [1;31m|[m[36m\[m  
+[32m|[m [36m|[m [1;31m|[m[36m/[m  
+[32m|[m [36m|[m[36m/[m[1;31m|[m   
+[32m|[m * [1;31m|[m [33m7b823dc[m buscando estilo
+[32m|[m * [1;31m|[m [33m0eba068[m add text About
+[32m|[m [1;32m|[m [1;31m|[m * [33m451a2aa[m[33m ([m[1;31morigin/G3-016[m[33m)[m 2.- Footer Bottom Changes
+[32m|[m [1;32m|[m [1;31m|[m * [33m38ede0c[m 1,- Footer Bottom
+[32m|[m [1;32m|[m[32m_[m[1;31m|[m[32m/[m  
+[32m|[m[32m/[m[1;32m|[m [1;31m|[m   
+* [1;32m|[m [1;31m|[m [33m7ded30d[m Navbar in Master changes
+* [1;32m|[m [1;31m|[m [33m65964dd[m Navbar Master Changes
+* [1;32m|[m [1;31m|[m   [33me5387f2[m Navbar in Master
+[1;34m|[m[1;35m\[m [1;32m\[m [1;31m\[m  
+[1;34m|[m * [1;32m|[m [1;31m|[m [33mb79a388[m[33m ([m[1;31morigin/G3-006[m[33m)[m 4.- Navbar with changes required changes
+[1;34m|[m * [1;32m|[m [1;31m|[m [33m876b96e[m[33m ([m[1;32mG3-006[m[33m)[m Navbar finised
+[1;34m|[m * [1;32m|[m [1;31m|[m [33mdf94dec[m 2. Minimal Changes Navbar
+[1;34m|[m * [1;32m|[m [1;31m|[m [33m7667e26[m 1. Navbar Structure
+[1;34m|[m [1;35m|[m [1;32m|[m [1;31m|[m * [33mbfdfc7d[m[33m ([m[1;31morigin/G3-009[m[33m, [m[1;32mG3-009[m[33m)[m Ticket G3-009
+[1;34m|[m [1;35m|[m [1;32m|[m [1;31m|[m *   [33m7272cbe[m Merge branch 'master' of github.com:chernandezUV/landing
+[1;34m|[m [1;35m|[m [1;32m|[m [1;31m|[m [31m|[m[1;34m\[m  
+[1;34m|[m [1;35m|[m[1;34m_[m[1;32m|[m[1;34m_[m[1;31m|[m[1;34m_[m[31m|[m[1;34m/[m  
+[1;34m|[m[1;34m/[m[1;35m|[m [1;32m|[m [1;31m|[m [31m|[m   
+* [1;35m|[m [1;32m|[m [1;31m|[m [31m|[m   [33m9850fdd[m[33m ([m[1;31morigin/G3-011[m[33m)[m landing page added
+[33m|[m[34m\[m [1;35m\[m [1;32m\[m [1;31m\[m [31m\[m  
+* [34m\[m [1;35m\[m [1;32m\[m [1;31m\[m [31m\[m   [33m02a5e11[m no hagas push
+[35m|[m[1;32m\[m [34m\[m [1;35m\[m [1;32m\[m [1;31m\[m [31m\[m  
+[35m|[m [1;32m|[m [34m|[m[1;32m_[m[1;35m|[m[1;32m/[m [1;31m/[m [31m/[m  
+[35m|[m [1;32m|[m[1;32m/[m[34m|[m [1;35m|[m [1;31m|[m [31m|[m   
+* [1;32m|[m [34m|[m [1;35m|[m [1;31m|[m [31m|[m [33m2a28b45[m[33m ([m[1;31morigin/G3-007[m[33m, [m[1;32mG3-007[m[33m)[m lastets changes
+* [1;32m|[m [34m|[m [1;35m|[m [1;31m|[m [31m|[m [33m729a70b[m adding the start section
+[1;35m|[m [1;32m|[m[1;35m_[m[34m|[m[1;35m/[m [1;31m/[m [31m/[m  
+[1;35m|[m[1;35m/[m[1;32m|[m [34m|[m [1;31m|[m [31m|[m   
+[1;35m|[m [1;32m|[m [34m|[m [1;31m|[m * [33m0ae9372[m In Process G3-009
+[1;35m|[m [1;32m|[m [34m|[m [1;31m|[m[34m/[m  
+[1;35m|[m [1;32m|[m [34m|[m[34m/[m[1;31m|[m   
+[1;35m|[m [1;32m|[m * [1;31m|[m   [33m3b0986e[m Merge branch 'G3-008'
+[1;35m|[m [1;32m|[m [1;31m|[m[1;32m\[m [1;31m\[m  
+[1;35m|[m [1;32m|[m [1;31m|[m [1;32m|[m[1;31m/[m  
+[1;35m|[m [1;32m|[m [1;31m|[m[1;31m/[m[1;32m|[m   
+[1;35m|[m [1;32m|[m [1;31m|[m * [33m541a24a[m[33m ([m[1;31morigin/G3-008[m[33m, [m[1;32mG3-008[m[33m)[m The Products section
+[1;35m|[m [1;32m|[m[1;35m_[m[1;31m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[1;32m|[m [1;31m|[m   
+[1;35m|[m [1;32m|[m * [33m8686592[m[33m ([m[1;31morigin/G3-015[m[33m, [m[1;32mG3-015[m[33m)[m LOCATION ADD
+[1;35m|[m [1;32m|[m[1;32m/[m  
+[1;35m|[m * [33m87364f6[m[33m ([m[1;31morigin/G3-012[m[33m, [m[1;32mG3-012[m[33m)[m CREATING FOOTER
+[1;35m|[m[1;35m/[m  
+* [33m129a444[m First Commit Changes
+* [33m9acd6f1[m[33m ([m[1;32mFrancisco[m[33m)[m font and icons added
+* [33m17a87cc[m readme flie added
+* [33m4bef508[m some denpendencies removed
+* [33m7eb794c[m project reestructured
+* [33m8570859[m dependency reference fixed
+* [33mfdd9f98[m index sectioned, dependencies added
+* [33m80dd85f[m Second Commit
+* [33maded4e5[m First Commit
