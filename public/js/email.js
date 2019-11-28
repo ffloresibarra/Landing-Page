@@ -40,9 +40,24 @@ function sendMail() {
           })
           .then(json => {
               console.log(json);
+              if (json.status == 200) {
+                let string = `<div class="alert alert-primary alert-dismissible fade show" role="alert">
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <p>The email was send it!</p>
+                </div>`;
+
+                document.forms["contact-form"]["name"].value = '';
+                document.forms["contact-form"]["email"].value = '';
+                document.forms["contact-form"]["telephone"].value = '';
+                document.forms["contact-form"]["comment"].value = '';
+
+                $('#contact-text').append(string);
+              }
           })
           .then(function (data) {
-            console.log('Request succeeded with JSON response', data);
+              console.log(data);              
           })
           .catch(function (error) {
             console.log('Request failed', error);

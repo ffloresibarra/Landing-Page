@@ -10,15 +10,15 @@ const emailService = {
             sgMail.setApiKey(config.key);
             sgMail.setSubstitutionWrappers('--', '--');            
             const msg = {
-                to: 'edelgadillo@unitedvirtualities.com',
-                from: req.body.email,
-                subject: 'Someone contacted us',
-                templateId: 'd-edce38ea4428474382cd9f74ef084fa6',
-                dynamic_template_data: {                
-                fulanito: req.body.username,
-                body: req.body.message,
-                email: req.body.email,
-                telephone: req.body.telephone
+                to: config.recipient,
+                from: req.body.email,                
+                templateId: config.templateId,
+                dynamic_template_data: {
+                    subject: 'Someone contacted us',
+                    fulanito: req.body.username,
+                    body: req.body.message,
+                    email: req.body.email,
+                    telephone: req.body.telephone
                 }                                   
             };           
 
