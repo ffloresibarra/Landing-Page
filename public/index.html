@@ -448,7 +448,7 @@
        
         <!--The contact section-->
         <section id="contac">
-            <div class="flex-column">
+            <div id="contact-text" class="flex-column">
                 <h2>Contact Us</h2>
                 <hr/>
                 <p>
@@ -457,7 +457,7 @@
             </div>
             <div class="container">
                 <div class="row justify-content-center">
-                    <form class="col-6">
+                    <form name="contact-form" class="col-6">
                         <div class="form-group">
                             <label for="name">Name:</label> 
                             <input id="name" name="name" placeholder="Insert your name" type="text" required="required" class="form-control">
@@ -475,7 +475,7 @@
                             <textarea id="comment" name="comment" cols="40" rows="5" class="form-control" required="required"></textarea>
                         </div> 
                         <div class="form-group">
-                            <button name="submit" type="submit" class="btn btn-primary">Send</button>
+                            <button name="submit" onclick="sendMail()" type="button" class="btn btn-primary">Send</button>
                         </div>
                     </form>
                 </div>                    
@@ -578,6 +578,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>   
     <script src="./js/products.js"></script>
     <script src="./js/nav-active.js"></script>
+    <script src="./js/email.js"></script>
 </body>
 
 </html>
