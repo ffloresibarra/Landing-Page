@@ -7,8 +7,7 @@ const serviceRouter = express.Router();
 const emailService = {
     async post (req, res) {
         try {            
-            sgMail.setApiKey(config.key);
-            sgMail.setSubstitutionWrappers('--', '--');            
+            sgMail.setApiKey(config.key);                     
             const msg = {
                 to: config.recipient,
                 from: req.body.email,                
