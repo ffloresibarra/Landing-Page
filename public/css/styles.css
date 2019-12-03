@@ -76,7 +76,7 @@ body {
   border-inline-start: solid 4px #2FCE98;
 }
 .promotions-month{
-  border-inline-start: solid 1px #2FCE98;
+  border-bottom: solid 2px #36567F;
 }
 .promotions-more{
   float: left; margin-right: 5px;
